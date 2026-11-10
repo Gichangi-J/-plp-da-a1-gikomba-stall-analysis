@@ -9,7 +9,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market and has recorded her daily 
 
 ## How to run
 
-Open the notebook in Google Colab: [Open in Colab](https://colab.research.google.com/github/(https://github.com/Gichangi-J)/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
+Open the notebook in Google Colab: [Open in Google Colab](https://colab.research.google.com/github/Gichangi-J/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 > Before submitting, replace `[YOUR-GITHUB-USERNAME]` in the Colab link and `[INSERT YOUR EXACT PLP COHORT]` above with your actual details.
 
